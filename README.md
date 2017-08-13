@@ -15,3 +15,7 @@ Sample website with plenty of files for demos and such
 Simple web project that can deployed anywhere
 
 ## How To Contribute
+
+## Copyright
+
+2017
