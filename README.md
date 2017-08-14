@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is a simple project repo
+Learning stuff
 
 ## Introduction
 
